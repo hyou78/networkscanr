@@ -1,4 +1,7 @@
-# networkscanr
+# networkscanr 
+install nmap by 
+sudo pip3 install python-nmap
+
 it scans all the open ports and scans the vulnerabilities of a network
 
 To run this tool We need python3 to be installed 
